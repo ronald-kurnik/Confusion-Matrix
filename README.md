@@ -76,7 +76,7 @@ $$
 - Adjust **β** in Fβ when business costs clearly favor recall or precision.
 - Choose metrics that align with the real-world cost of errors in your problem.
 
-- # Example
-- ![cm](cm.png)
-- ## Summary
-- ![summary](cmResults.png)
+# Example
+![cm](cm.png)
+## Summary
+![summary](cmResults.png)
