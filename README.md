@@ -75,3 +75,8 @@ $$
 - **F1** is great when you want balance and hate extreme trade-offs.
 - Adjust **β** in Fβ when business costs clearly favor recall or precision.
 - Choose metrics that align with the real-world cost of errors in your problem.
+
+- # Example
+- ![cm](cm.png)
+- ## Summary
+- ![summary](cmResults.png)
